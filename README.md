@@ -310,8 +310,8 @@ MIT License - Free to use, modify, distribute.
 
 **Angga Official**
 - YouTube: https://www.youtube.com/@Bacotamatpro03
-- Telegram: t.me/PredikSpaceman
-- WhatsApp: wa.me/628985035456
+- Telegram: (https://t.me/PredikSpaceman)
+- WhatsApp: (https://wa.me/628985035456)
 
 ---
 
