@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Session & runtime data
+session/
+all/tmp/*
+!all/tmp/.gitkeep
+
+# Baileys store
+all/database/baileys-store.json
+
+# Temp files
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Environment variables
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated
+Thumbs.db
+desktop.ini
+
+# Files downloaded by user via bot
+*.mp3
+*.mp4
+*.jpg
+*.png
+*.jpeg
+*.webp
+!docs/*.png

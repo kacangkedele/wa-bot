@@ -1,0 +1,5 @@
+# NPM config - install dependencies without strict peer deps check
+# Required for jimp compatibility with baileys
+legacy-peer-deps=true
+fund=false
+audit=false
